@@ -12,6 +12,7 @@ namespace exampleapp
 
             Console.WriteLine("my first code change");
             Console.WriteLine("this is my new feature");
+            Console.WriteLine("something else");
         }
     }
 }
